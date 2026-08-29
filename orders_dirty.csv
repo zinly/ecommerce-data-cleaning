@@ -1,0 +1,256 @@
+order_id,order_date,product,category,quantity,unit_price,discount,payment_method,country,status
+1,2026-05-12,Mechanical Keyboard,Electronics,3,64.9,0.1,Card,Slovakia,Refunded
+2,2026-03-22,Sneakers,Clothing,5,79.9,0.15,Cash,Germany,Cancelled
+3,2026-08-06,Sneakers,Clothing,2,79.9,0,Bank Transfer,Poland,Refunded
+4,2026-07-01,T-Shirt,Clothing,8,19.99,0.2,Cash,Slovakia,Completed
+5,2026-05-24,Backpack,Accessories,8,39.9,0%,PayPal,Poland,Refunded
+6,2026-05-05,Laptop Stand,Electronics,2,34.5,0.15,PayPal,Austria,Refunded
+7,2026-07-06,USB-C Cable,Electronics,4,9.9,0.2,PayPal,Czechia,Cancelled
+8,2026-06-08,Laptop Stand,Electronics,2,34.5,0,Card,Austria,Cancelled
+9,2026-01-22,Hoodie,Clothing,8,44.9,0,PayPal,Slovakia,Pending
+10,2026-07-01,Sneakers,Clothing,3,,0.2,Card,Austria,Refunded
+11,2026-04-13, sneakers ,Clothing,1,79.9,0.1, Card ,Slovakia,Pending
+12,2026-06-19,T-Shirt,Clothing,,19.99,0,Cash,Germany,Cancelled
+13,2026-01-31,T-Shirt,Clothing,5,19.99,0.05,Bank Transfer,Czechia,Pending
+14,2026-06-08,T-Shirt,Clothing,2,N/A,0,Bank Transfer,Austria,Pending
+15,2026-03-22,USB-C Cable,Electronics,1,"9,90",0.1,,Austria, completed 
+16,2026-05-24,Mechanical Keyboard,Electronics,1,64.9,0.15,Bank Transfer,Poland,Refunded
+17,2026-03-16,T-Shirt,Clothing,2,19.99,0.05,Bank Transfer,,Refunded
+18,2026-07-04,Laptop Stand,Electronics,8,34.5,0,Card,Slovakia,Completed
+19,2026-02-02,Sneakers,Clothing,2,79.9,0.2,,Austria,Completed
+20,2026-06-01,Desk Lamp,Office,1,27.8,0.15,Card,Slovakia,Completed
+21,2026-02-08,Laptop Stand,Electronics,8,34.5,0.2,PayPal,Poland,Pending
+22,2026-05-05,Sneakers,Clothing,,79.9,0,Card,Poland,Refunded
+23,2026-01-12,Coffee Beans,Food,2,13.5,0.1,PayPal,Germany,Pending
+24,2026-04-02,T-Shirt,Clothing,2,19.99,0,,Slovakia,Completed
+25,2026-06-20,Wireless Mouse,Electronics,1,18.9,0.1,Card,Poland,Completed
+26,2026-05-02,Sneakers,Clothing,1,79.9,0,PayPal,Czechia,Pending
+27,2026-03-26,Water Bottle,Home,8,12.5,0.1,Bank Transfer,Germany,Refunded
+28,2026-03-10,Sneakers,Clothing,1,79.9,0.05,Bank Transfer,Czechia,Cancelled
+29,2026-05-21,Water Bottle,Home,4,12.5,0,Bank Transfer,Germany,Cancelled
+30,2026-06-03,Notebook,Office,8,4.2,15%,Cash,Poland,Refunded
+31,2026-06-09,Backpack, Accessories ,unknown,39.9,0,Bank Transfer,Czechia,Pending
+32,2026-01-28, t-shirt ,Clothing,8,19.99,0,Card,Poland,Refunded
+33,2026-06-14,Desk Lamp,Office,2,27.8,0,PayPal,Slovakia,Completed
+34,2026-05-17,Sneakers,Clothing,8,79.9,0.15,Bank Transfer,Germany,Completed
+35,2026-09-04, t-shirt ,Clothing,8,19.99,0.2,Card,Austria,Pending
+36,2026-04-11,Desk Lamp,Office,3,27.8,1.5,Cash,Slovakia,Pending
+37,2026-04-28,Coffee Beans,Food,3,13.5,0,Cash,Slovakia,Completed
+38,2026-07-02, water bottle ,Home,1,12.5,0,Card,Germany,Completed
+39,2026-08-04,Water Bottle,Home,2,12.5,0.2,Cash,Slovakia,Pending
+40,2026-08-13,T-Shirt,Clothing,5,19.99,0,Cash,Slovakia, completed 
+41,2026-07-09,USB-C Cable,Electronics,2,9.9,0,Bank Transfer,Germany,Completed
+42,2026-06-21,Hoodie,Clothing,1,44.9,0.15,Bank Transfer,Poland,Completed
+43,2026-07-24,Backpack,Accessories,1,"39,90",0.05,PayPal,Austria,Refunded
+44,2026-07-07,Hoodie,Clothing,8,44.9,0,Bank Transfer,Slovakia,Cancelled
+45,2026-01-30,Backpack, Accessories ,2,39.9,20%,PayPal,Austria,Refunded
+46,2026-06-04,Coffee Beans,Food,1,13.5,0,Cash,Austria,Completed
+47,2026-07-24,Wireless Mouse,Electronics,2,18.9,0.2,Cash,Austria,Cancelled
+48,2026-05-12, coffee beans ,Food,5,13.5,20%,Card,Slovakia,Refunded
+49,2026-05-19,Sneakers,Clothing,8, 79.90 ,10%,Cash,Germany,Completed
+50,2026-07-13,T-Shirt,Clothing,2,"19,99",0.1,Bank Transfer,Germany,Cancelled
+51,2026-07-24,Coffee Beans,Food,1, 13.50 ,0.15,Bank Transfer,Slovakia,Refunded
+52,2026-01-30,Wireless Mouse,Electronics,2,18.9,0,PayPal,Slovakia,Cancelled
+53,2026-02-10,Laptop Stand,Electronics,5,34.5,0.2,PayPal,Czechia,Completed
+54,2026-08-01,Mechanical Keyboard,Electronics,1,64.9,0,Bank Transfer,Germany,Completed
+55,2026-05-21,USB-C Cable,Electronics,1,9.9,0.1,Card,Slovakia,Pending
+56,2026-05-21,Water Bottle,Home,2,12.5,0.1,Bank Transfer,Austria,Refunded
+57,2026-12-06,USB-C Cable,Electronics,5,9.9,0.05,PayPal,Czechia,Cancelled
+58,2026-01-08, notebook ,Office,8,4.2,0,Bank Transfer,Germany, pending 
+59,2026-06-05,Laptop Stand,Electronics,2, 34.50 ,0,PayPal,Germany,Pending
+60,2026-03-24,Mechanical Keyboard,Electronics,4,64.9,0,Bank Transfer,Czechia,Completed
+61,2026-03-30,USB-C Cable,Electronics,unknown,9.9,0, Cash ,Slovakia,Refunded
+62,2026-01-16,Mechanical Keyboard,Electronics,5,64.9,1.5,PayPal,Germany,Cancelled
+63,2026-07-25,Notebook,Office,2,4.2,0.2,PayPal,Czechia,Pending
+64,2026-05-16,Hoodie,Clothing,8,44.9,0,PayPal,Poland,Completed
+65,2026-03-21, t-shirt ,Clothing,2,19.99,0,Card,Austria,Pending
+66,2026-07-30,Mechanical Keyboard,Electronics,3,64.9,0.2,,Germany,Cancelled
+67,2026-05-20,Wireless Mouse,Electronics,2,18.9,0.1,Card,Czechia,Cancelled
+68,2026-01-27,Hoodie,Clothing,8,44.9,0.05,Card,Poland,Pending
+69,2026-07-17,T-Shirt,Clothing,1,19.99,0.2,Bank Transfer,Germany,Cancelled
+70,2026-04-16,Mechanical Keyboard,Electronics,5,64.9,0.1,PayPal,Germany,Pending
+71,2026-08-15,Coffee Beans,Food,2,13.5,0%,Card,Slovakia,Refunded
+72,2026-06-26,Mechanical Keyboard,Electronics,8,64.9,0,Cash,Germany,Cancelled
+73,2026-08-21,Desk Lamp,Office,5,27.8,0,Cash,Austria,Cancelled
+74,2026-07-02,Backpack,Accessories,4, 39.90 ,0.2,Card,Slovakia,Cancelled
+75,2026-06-17, water bottle ,Home,1,12.5,0,Cash,Austria,Completed
+76,2026-06-23,WIRELESS MOUSE,Electronics,3,18.9,0.2,PayPal,Germany,Refunded
+77,2026-08-27,Wireless Mouse,Electronics,4,,0.05,Card,Austria,Completed
+78,2026-03-01,Laptop Stand,Electronics,5,34.5,0.15,Card,Czechia,Refunded
+79,2026-07-04,Laptop Stand,Electronics,1,34.5,0.05,Bank Transfer,Slovakia,Refunded
+80,2026-06-09, laptop stand ,Electronics,2,34.5,0,PayPal,Germany,Refunded
+81,2026-11-05,Mechanical Keyboard,Electronics,4,64.9,0.1,PayPal,Poland,Refunded
+82,2026-06-23,Hoodie,Clothing,2,44.9,0,Bank Transfer,Slovakia,Cancelled
+83,,MECHANICAL KEYBOARD,Electronics,3,"64,90",0.05,Card,Austria,Completed
+84,2026-07-25,Wireless Mouse, Electronics ,2,18.9,0.2,Cash,Germany,Pending
+85,2026-03-20,WATER BOTTLE, Home ,1,12.5,0,,Slovakia,Cancelled
+86,2026-02-20,Notebook,Office,1,4.2,0.05,PayPal,Czechia,Refunded
+87,2026-06-01,USB-C Cable,Electronics,5,9.9,1.5,Bank Transfer,Germany,Pending
+88,2026-05-04,T-Shirt,Clothing,4,19.99,0,Card,Slovakia,Completed
+89,2026-04-12,Laptop Stand,Electronics,3,34.5,0,PayPal,Germany,Pending
+90,,Coffee Beans,Food,1,"13,50",0.05,Cash,Germany,Refunded
+91,2026-11-07,USB-C Cable,Electronics,1,9.9,0,Bank Transfer,Slovakia,Refunded
+92,2026-03-01,Hoodie,Clothing,8,,0.05,Bank Transfer,Czechia,Cancelled
+93,2026-07-31,Laptop Stand,Electronics,5,34.5,0.1,Cash,Germany,Refunded
+94,2026-02-24,Wireless Mouse,Electronics,1,N/A,0,PayPal,Austria,Refunded
+95,2026-07-07,Desk Lamp,Office,1,27.8,0,Card,Germany,Pending
+96,2026-04-17, laptop stand ,Electronics,3,34.5,0%,Bank Transfer,Austria,Cancelled
+97,2026-03-31,Wireless Mouse,Electronics,1,18.9,0,Card,Slovakia,Completed
+98,2026-05-16,Mechanical Keyboard,Electronics,1,64.9,0.2,Cash,Slovakia,Refunded
+99,2026-05-06, coffee beans ,Food,4,13.5,0,PayPal,Germany,Refunded
+100,2026-08-19,Water Bottle,Home,2,12.5,0.2,Card,Slovakia,Refunded
+101,2026-04-11,Wireless Mouse, Electronics ,2,18.9,0.1,Bank Transfer,Germany,Completed
+102,2026-06-09,Backpack,Accessories,1,39.9,0,PayPal,Poland,Cancelled
+103,2026-08-24,Water Bottle,Home,4, 12.50 ,0.15,Card,Germany,Cancelled
+104,2026-02-16,Water Bottle,Home,1,12.5,0.2,,Austria,Refunded
+105,2026-01-06,Backpack, Accessories ,4,39.9,0.15,Card,Slovakia,Pending
+106,2026-01-14,Backpack,Accessories,8,39.9,0,PayPal,Slovakia,Cancelled
+107,2026-10-02,Backpack,Accessories,5,39.9,0.1,Card,Poland,Completed
+108,2026-05-17,Desk Lamp,Office,1,27.8,0,Card,Slovakia,Pending
+109,2026-11-03,Mechanical Keyboard,Electronics,1,64.9,0.1,PayPal,Czechia,Cancelled
+110,2026-05-09,Desk Lamp,Office,5,27.8,0.1,Cash,,Completed
+111,2026-06-06,Mechanical Keyboard,Electronics,2,64.9,0,Bank Transfer,Germany,Completed
+112,2026-05-20,Desk Lamp,Office,1,27.8,,Card,Czechia,Completed
+113,2026-06-14,HOODIE,Clothing,3,44.9,0.2,PayPal,Czechia,Completed
+114,2026-06-21,Backpack, Accessories ,3,39.9,0.15,Cash,Austria,Pending
+115,2026-07-31,T-Shirt,Clothing,8,19.99,0.1,Card,Poland,Cancelled
+116,2026-03-25,Mechanical Keyboard,Electronics,4,"64,90",0.1,Bank Transfer,Slovakia,Cancelled
+117,2026-05-17,USB-C CABLE,Electronics,3,9.9,0,Bank Transfer,Poland,Refunded
+118,2026-04-17,Coffee Beans,Food,2,13.5,0,PayPal,Austria,Completed
+119,2026-08-16,Water Bottle,Home,2,12.5,0.15,PayPal,Austria,Completed
+120,2026-02-28,Water Bottle,Home,3,12.5,0.05,Card,Poland,Pending
+121,2026-06-26,Mechanical Keyboard,Electronics,5,64.9,0,Bank Transfer,Germany,Refunded
+122,2026-02-10,T-Shirt,Clothing,1,19.99,0.2,Bank Transfer,Germany,Refunded
+123,2026-03-28,Desk Lamp,Office,3,27.8,0.05,PayPal,Germany,Completed
+124,2026-07-18,WATER BOTTLE,Home,1,12.5,0, Bank Transfer ,Austria,Refunded
+125,2026-07-16, usb-c cable ,Electronics,1,9.9,0,Bank Transfer,,Cancelled
+126,2026-02-24,WATER BOTTLE,Home,1,12.5,0.1,Cash,Slovakia,Refunded
+127,2026-04-14,T-Shirt,Clothing,5,-19.99,0,PayPal,Germany,Cancelled
+128,2026-02-27,Backpack,Accessories,5,39.9,0%,Cash,Germany,Cancelled
+129,2026-02-24,Mechanical Keyboard,Electronics,2,64.9,0.2,Cash,Poland,Completed
+130,,Notebook,Office,1,4.2,0.2,Bank Transfer,Austria,Refunded
+131,2026-06-23,Mechanical Keyboard,Electronics,1,64.9,0.2,PayPal,Slovakia,Refunded
+132,2026-05-29,Water Bottle,Home,3,12.5,,Bank Transfer,Germany,Completed
+133,2026-02-13, backpack ,Accessories,1,39.9,0.15,Cash,Poland,Pending
+134,2026-07-27,Wireless Mouse,Electronics,3,18.9,0.2,Card,Germany,Completed
+135,2026-06-03,Sneakers,Clothing,3,79.9,0,Bank Transfer,Poland,Pending
+136,2026-01-03,T-Shirt,Clothing,5,19.99,0,Cash,Germany,Cancelled
+137,2026-01-30,Laptop Stand,Electronics,5,34.5,0.05,Cash,Poland, pending 
+138,2026-09-04,Wireless Mouse,Electronics,1,18.9,0.1, Cash ,Germany,Refunded
+139,2026-10-02,Coffee Beans,Food,1,13.5,0.05,PayPal,Czechia,Cancelled
+140,2026-06-01,Desk Lamp,Office,1,27.8,0.05,Bank Transfer,Austria,Completed
+141,2026-01-23, wireless mouse ,Electronics,1,,0,PayPal,Poland,Refunded
+142,2026-04-21,T-Shirt,Clothing,2,19.99,0.05,Card,Germany,Refunded
+143,2026-08-28,Water Bottle,Home,8,12.5,0,PayPal,Poland,Cancelled
+144,2026-07-31,Sneakers,Clothing,4,,0.15,Cash,Czechia,Cancelled
+145,2026-01-29,Sneakers,Clothing,2,79.9,0.1,Bank Transfer,Slovakia,Pending
+146,2026-07-13,Backpack,Accessories,2,39.9,0.05,PayPal,Poland,Completed
+147,2026-01-11, usb-c cable ,Electronics,4,9.9,0.2,Card,Czechia,Pending
+148,2026-06-18,Mechanical Keyboard,Electronics,4,64.9,0.1,PayPal,Slovakia,Completed
+149,2026-06-06,Coffee Beans,Food,5,"13,50",0,PayPal,Slovakia,Pending
+150,2026-01-10,Water Bottle,Home,3,12.5,0,Bank Transfer,Slovakia,Refunded
+151,2026-01-29, desk lamp ,Office,2,27.8,0,Card,Poland,Refunded
+152,2026-02-13,Coffee Beans,Food,1,13.5,5%,Cash,Germany,Pending
+153,2026-03-24,Coffee Beans,Food,2,13.5,0.15,Cash,Slovakia,Pending
+154,2026-01-23,Notebook,Office,2,4.2,0.1,PayPal,Slovakia, completed 
+155,2026-03-02,T-Shirt,Clothing,1,"19,99",,Bank Transfer,Slovakia,Cancelled
+156,2026-04-05, notebook ,Office,8,4.2,10%,Card,Czechia,Completed
+157,2026-08-17,Backpack,Accessories,1,39.9,0,Cash,Germany,Refunded
+158,2026-05-16,Mechanical Keyboard,Electronics,4,64.9,0%,Card,Poland,Cancelled
+159,2026-08-03,Water Bottle,Home,1,12.5,0,,Poland,Cancelled
+160,2026-04-04,Mechanical Keyboard,Electronics,2,N/A,0.05,PayPal,Germany,Completed
+161,2026-02-23,Sneakers,Clothing,1,79.9,0,Cash,Poland,Pending
+162,2026-06-06,Hoodie,Clothing,2,,0.15, Cash ,Poland,Cancelled
+163,2026-07-09,Laptop Stand,Electronics,3,-34.5,0.05,PayPal,Czechia,Cancelled
+164,2026-09-01,Sneakers,Clothing,3,79.9,0,Card,Poland,Refunded
+165,2026-03-31,T-Shirt,Clothing,2,19.99,0,Bank Transfer,Austria,Cancelled
+166,not available,Laptop Stand,Electronics,2,34.5,0.1,Card,Austria,Completed
+167,2026-06-01,Coffee Beans, Food ,1,13.5,0.1,Bank Transfer,Slovakia,Cancelled
+168,2026-09-01,Wireless Mouse,Electronics,2,18.9,0%,PayPal,Germany,Cancelled
+169,2026-01-06, wireless mouse ,Electronics,1,18.9,0,PayPal,Poland,Pending
+170,2026-08-18,Mechanical Keyboard,Electronics,5,64.9,0,PayPal,Czechia,Refunded
+171,2026-01-08,Mechanical Keyboard,Electronics,2,,0.1,Card,Slovakia,Refunded
+172,2026-08-01,Mechanical Keyboard,Electronics,2,64.9,0,Bank Transfer,Austria,Refunded
+173,2026-07-29,Mechanical Keyboard,Electronics,1,64.9,0.05,PayPal,Slovakia,Cancelled
+174,2026-08-02,Hoodie,Clothing,2,44.9,0,PayPal,Poland,Completed
+175,2026-02-18,Coffee Beans,Food,1,13.5,0%,Bank Transfer,Czechia,Refunded
+176,2026-08-02,Water Bottle,Home,2,12.5,0,Bank Transfer,Poland,Refunded
+177,2026-07-04,Mechanical Keyboard,Electronics,4,64.9,,Bank Transfer,Czechia,Cancelled
+178,2026-05-22,T-Shirt,Clothing,4,19.99,0,Cash,Slovakia,Refunded
+179,2026-04-17,Laptop Stand,Electronics,2,34.5,0.1,Card,Slovakia,Pending
+180,2026-09-06,Notebook,Office,1,4.2,0,Card,Austria,Cancelled
+181,2026-02-16,Hoodie,Clothing,-1,44.9,0.15,Cash,Germany,Pending
+182,2026-11-03,Water Bottle,Home,1,12.5,0,Bank Transfer,Germany,Completed
+183,2026-08-17,Wireless Mouse,Electronics,3,-18.9,0,Bank Transfer,Austria,Cancelled
+184,2026-01-06,Water Bottle,Home,2,12.5,0.15,Bank Transfer,Czechia,Refunded
+185,2026-04-19,T-Shirt,Clothing,1,19.99,0,Bank Transfer,Czechia,Refunded
+186,2026-10-03,WIRELESS MOUSE,Electronics,4,18.9,0.15,Card,Austria,Refunded
+187,2026-06-17, usb-c cable , Electronics ,2,9.9,0,Cash,Poland,Completed
+188,2026-04-12,Hoodie,Clothing,4,44.9,0, PayPal ,Austria,Pending
+189,2026-07-23, sneakers ,Clothing,1,79.9,0,Card,Germany,Cancelled
+190,2026-01-02,Wireless Mouse,Electronics,1,18.9,0.15,Cash,Poland,Completed
+191,2026-08-03,T-Shirt,Clothing,4,19.99,0.1,Card,Germany,Cancelled
+192,2026-04-16,Wireless Mouse,Electronics,3,18.9,0,Bank Transfer,Austria,Refunded
+193,2026-01-30,Desk Lamp,Office,2,27.8,0.1,Cash,Austria,Refunded
+194,2026-01-22,T-Shirt,Clothing,4,19.99,0.15,Cash,Poland,Completed
+195,2026-10-01,Notebook,Office,1,4.2,0.1,Cash,Slovakia,Refunded
+196,2026-06-13,Hoodie,Clothing,4,44.9,20%, PayPal ,Germany,Completed
+197,2026-05-07,Coffee Beans,Food,3,,0,Cash,Austria,Pending
+198,,Backpack,Accessories,2,39.9,0.2,PayPal,Czechia,Refunded
+199,2026-08-13,Wireless Mouse,Electronics,2,18.9,0,Bank Transfer,Poland,Completed
+200,2026-02-14,BACKPACK,Accessories,1,39.9,0.05,PayPal,Czechia,Completed
+201,2026-01-22,Backpack,Accessories,1,39.9,0.1,PayPal,Slovakia, refunded 
+202,2026-08-28,T-Shirt,Clothing,1,19.99,0.15,Cash,Slovakia,Pending
+203,2026-06-29,USB-C Cable,Electronics,1,9.9,0,Bank Transfer,Czechia,Pending
+204,2026-08-19,Laptop Stand,Electronics,1,34.5,0.1,Cash,Germany,Refunded
+205,2026-07-03,Sneakers, Clothing ,2,79.9,0,PayPal,Poland,Pending
+206,2026-05-18,Notebook,Office,2,4.2,0,Cash,Austria,Completed
+207,2026-04-11,Laptop Stand,Electronics,4,34.5,0,Card,Poland,Refunded
+208,2026-05-09,Notebook,Office,1, 4.20 ,0.05,Card,Germany,Pending
+209,2026-01-22,WATER BOTTLE,Home,1,12.5,0,Cash,Slovakia,Completed
+210,2026-02-26,Notebook,Office,5,4.2,0,Card,, refunded 
+211,2026-01-01,Water Bottle,Home,1,12.5,0.2,Card,Slovakia,Completed
+212,2026-07-01,Water Bottle,Home,2,12.5,0,PayPal,Austria,Refunded
+213,2026-07-08,USB-C Cable,Electronics,1,N/A,0.05,PayPal,Austria,Cancelled
+214,2026-05-10,Laptop Stand,Electronics,2,34.5,0,Card,Czechia,Pending
+215,2026-05-29,Laptop Stand,Electronics,2,34.5,0,Bank Transfer,Slovakia,Completed
+216,2026-08-01,Wireless Mouse,Electronics,5,18.9,0%,Card,Slovakia,Refunded
+217,2026-03-21,Water Bottle,Home,4,12.5,0.1,Card,Poland,Cancelled
+218,2026-01-28,Water Bottle,Home,1,-12.5,0.2,Bank Transfer,Poland,Refunded
+219,2026-03-29,USB-C Cable,Electronics,8,9.9,0.2,Bank Transfer,Czechia,Completed
+220,2026-01-30,Desk Lamp,Office,2,27.8,0.1,Bank Transfer,Germany,Cancelled
+221,2026-02-12,Water Bottle,Home,8,12.5,0,Bank Transfer,Austria,Completed
+222,2026-01-24,Sneakers,Clothing,5,79.9,0,PayPal,,Cancelled
+223,2026-02-20,Backpack,Accessories,2,-39.9,0.2,PayPal,Poland,Cancelled
+224,2026-08-15,Desk Lamp,Office,2,27.8,0,Cash,Austria,Refunded
+225,2026-02-18,Laptop Stand,Electronics,2,34.5,0.1,PayPal,Germany,Pending
+226,2026-04-06,Notebook, Office ,5,4.2,0.1,Card,Poland,Pending
+227,2026-04-26,Wireless Mouse,Electronics,1,18.9,0.15,Card,Poland,Cancelled
+228,2026-04-18,USB-C Cable,Electronics,2,9.9,0,PayPal,Slovakia,Completed
+229,2026-04-18,Laptop Stand,Electronics,1,34.5,0,Cash,Poland,Pending
+230,2026-08-05,Desk Lamp,Office,3,27.8,0.2,PayPal,Czechia,Pending
+231,2026-03-17,Backpack,Accessories,8,39.9,0,Cash,Poland,Completed
+232,2026-01-01,Notebook,Office,1,4.2,0.15,Cash,Poland,Completed
+233,2026-07-19,Notebook,Office,1,4.2,0,Card,Poland,Completed
+234,2026-07-22,Sneakers,Clothing,4,79.9,0.1,Bank Transfer,Czechia,Refunded
+235,2026-08-26,T-Shirt,Clothing,3,19.99,,PayPal,Slovakia,Cancelled
+236,2026-04-04,Sneakers,Clothing,1,79.9,0,PayPal,Germany,Completed
+237,2026-11-03,Sneakers,Clothing,5,79.9,0.15,PayPal,Slovakia,Refunded
+238,2026-07-01,T-Shirt,Clothing,2,19.99,0,Bank Transfer,Germany,Pending
+239,2026-07-15,Desk Lamp,Office,1,27.8,0,Cash,Slovakia,Refunded
+240,2026-01-22,Water Bottle,Home,5,12.5,,PayPal,Austria,Refunded
+241,2026-05-04,Desk Lamp,Office,1,27.8,0.05,PayPal,Austria,Refunded
+242,2026-07-07,T-Shirt,Clothing,1,19.99,0.15,Card,Austria,Completed
+243,2026-04-05, backpack ,Accessories,8,39.9,0.05,PayPal,Czechia,Completed
+244,, laptop stand ,Electronics,1,34.5,0%,Cash,Poland,Refunded
+245,2026-04-26,T-Shirt,Clothing,,19.99,20%,Cash,Slovakia,Refunded
+246,2026-03-10,T-Shirt,Clothing,8,19.99,0,PayPal,Czechia,Refunded
+247,2026-04-03,Water Bottle,Home,1,"12,50",0.15,PayPal,Austria,Completed
+248,2026-03-06, water bottle ,Home,4,12.5,5%,Bank Transfer,Slovakia,Refunded
+249,2026-06-03,Hoodie,Clothing,5,44.9,0,PayPal,Slovakia,Refunded
+250,2026-07-27,Sneakers,Clothing,1,79.9,,PayPal,Poland,Completed
+18,2026-07-04,Laptop Stand,Electronics,8,34.5,0,Card,Slovakia,Completed
+84,2026-07-25,Wireless Mouse, Electronics ,2,18.9,0.2,Cash,Germany,Pending
+167,2026-06-01,Coffee Beans, Food ,1,13.5,0.1,Bank Transfer,Slovakia,Cancelled
+212,2026-07-01,Water Bottle,Home,2,12.5,0,PayPal,Austria,Refunded
+231,2026-03-17,Backpack,Accessories,8,39.9,0,Cash,Poland,Completed
