@@ -28,5 +28,5 @@ df["order_date"] = df["order_date"].str.strip()
 df["order_date"] = pd.to_datetime(df["order_date"], errors="coerce")
 
 df["total"] = df["unit_price"] * df["quantity"] * (1 - df["discount"])
-
+df.to_csv("orders_clean.csv", index=False)
 print(df.head(30))
